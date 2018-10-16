@@ -14,7 +14,7 @@
 * vue-cli -- 构建
 ## 依赖
 * @antv/data-set: ^0.8.9
-* ant-design-vue: ^1.0.3
+* ant-design-vue: ^1.1.6
 * axios: ^0.18.0
 * mockjs: ^1.0.1-beta3
 * moment: ^2.22.2

@@ -6,14 +6,14 @@
     </div>
     <div slot="extra">
       <a-row>
-        <a-col :sm="8" :xs="24">
+        <a-col :sm="7" :xs="24">
           <head-info title="项目数" content="56" :bordered="true"/>
         </a-col>
-        <a-col :sm="8" :xs="24">
+        <a-col :sm="9" :xs="24">
           <head-info title="团队内排名" content="8/24" :bordered="true"/>
         </a-col>
         <a-col :sm="8" :xs="24">
-          <head-info title="项目访问" content="2,223"/>
+          <head-info title="项目访问" content="2,223" />
         </a-col>
       </a-row>
     </div>
